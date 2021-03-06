@@ -18,3 +18,4 @@ pip-selfcheck.json
 
 .vscode/
 .python-version
+env

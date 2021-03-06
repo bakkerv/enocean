@@ -431,7 +431,7 @@ All profiles (should) correspond to the official [EEP](http://www.enocean-allian
 |BSP     |Blind/shutter position                            |value   |0.0-255.0 ↔ 0.0-100.0 %                                               |
 |AS      |Angle sign                                        |enum    |0 - Positive sign                                                     |
 |        |                                                  |        |1 - Negative sign                                                     |
-|AN      |Angle in 2 degrees steps                          |value   |0.0-180.0 ↔ 0.0-360.0 degrees                                         |
+|AN      |Angle in 2 degrees steps                          |value   |0.0-90.0 ↔ 0.0-180.0 degrees                                          |
 |PVF     |Position value flag                               |enum    |0 - No position value available                                       |
 |        |                                                  |        |1 - Position value available                                          |
 |AVF     |Angle value flag                                  |enum    |0 - No Angle value available                                          |

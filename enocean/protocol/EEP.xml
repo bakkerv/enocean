@@ -905,11 +905,11 @@
         <value shortcut="AN" description="Angle in 2 degrees steps" offset="9" size="7" unit="degrees">
           <range>
             <min>0</min>
-            <max>180</max>
+            <max>90</max>
           </range>
           <scale>
             <min>0</min>
-            <max>360</max>
+            <max>180</max>
           </scale>
         </value>
         <enum shortcut="PVF" description="Position value flag" offset="16" size="1">
